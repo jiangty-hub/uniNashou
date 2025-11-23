@@ -1,0 +1,32 @@
+"product_list" : [
+  {
+    "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/dunliyu.jpg",
+    "open_type": "navigate",
+    "goods_id": 111,
+    "navigator_url": "/pages/goods_list/main?goods_id=111"
+  },
+  {
+    "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/xiaojidunmogu.jpg",
+    "open_type": "navigate",
+    "goods_id": 112,
+    "navigator_url": "/pages/goods_list/main?goods_id=112"
+  },
+  {
+    "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/chaosuantai.jpg",
+    "open_type": "navigate",
+    "goods_id": 113,
+    "navigator_url": "/pages/goods_list/main?goods_id=113"
+  },
+  {
+    "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/muxurou.jpg",
+    "open_type": "navigate",
+    "goods_id": 114,
+    "navigator_url": "/pages/goods_list/main?goods_id=114"
+  },
+    {
+    "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/dazhouzi.jpg",
+    "open_type": "navigate",
+    "goods_id": 115,
+    "navigator_url": "/pages/goods_list/main?goods_id=115"
+  }
+]
