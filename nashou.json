@@ -1,5 +1,4 @@
-{
-"product_list": [
+[
   {
     "image_src": "https://raw.githubusercontent.com/jiangty-hub/uniNashou/main/dunliyu.jpg",
     "open_type": "navigate",
@@ -30,5 +29,4 @@
     "goods_id": 115,
     "navigator_url": "/pages/goods_list/main?goods_id=115"
   }
-  ]
-}
+]
